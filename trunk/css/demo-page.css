@@ -1,0 +1,88 @@
+body {
+	margin:0; padding:0; border:0;
+	background-color:#eee; font-family: Ubuntu,sans-serif;
+	}
+a, a:visited {
+	color:#396; text-decoration:none;
+}
+a:hover {
+	color:#36f; text-decoration:none;
+}
+.clearer { clear:both; }
+#mainwrapper {
+	width:980px; margin:20px auto;
+	background-color:#fff; border-color:#ccc;
+	border-width:1px; border-style:solid; border-radius:10px; -moz-border-radius:10px;
+	box-shadow:0 3px 15px #ccc; -moz-box-shadow:0 3px 15px #ccc;
+}
+#contentwrapper {
+	margin:20px;
+	background-color:#f6f6f6;
+}
+#header {
+	text-align:center; padding:20px;
+	color:#fff;
+	background: url("http://2.bp.blogspot.com/-EPdWuGV3Wpo/TkzhoNI_aoI/AAAAAAAAAGo/2NBjivlfUAU/s1600/header-01.jpg") repeat scroll 0 0 #36c;
+    box-shadow: 2px 2px 15px #000 inset;
+}
+h2.headertitle {
+	font-size:2em; margin:0.5em 0;
+	text-shadow:0 0 10px #000;
+}
+h2.headertitle a, h2.headertitle a:visited {
+	color:#fff;
+}
+h2.headertitle a:hover {
+	color:#cf0;
+}
+#postwrapper {
+	float:left; width:600px; padding-right:20px;
+	background-color:#fff;
+}
+#post {
+	overflow:hidden;
+}
+h1.posttitle {
+}
+.postcontent {
+	clear:both; text-align:justify;
+}
+#sidebar {
+	float:left; width:300px; padding:10px; color:#666;
+}
+#footer {
+	 padding:10px; color:#666;
+}
+.widget {
+	border:1px solid #eee; background-color:#fff;
+	padding:5px; margin-bottom:10px;
+	overflow:hidden;
+}
+.footerwidget {
+	width:287.5px; float:left;
+}
+#footerwidget1, #footerwidget2 {
+	margin-right:10px;
+}
+h3.widgettitle {
+	border-bottom:1px solid #ddd;
+	margin:0;
+}
+.widgetcontent {
+	padding:5px;
+}
+.horizontalseparator {
+	min-height:10px;
+}
+.verticalseparator {
+	float:left; width:10px; min-width:10px;
+}
+.bgfff {
+	background-color:#fff;
+}
+.bgf6f6f6 {
+	background-color:#f6f6f6;
+}
+#cred {
+	text-align:center; font-size:12px;
+}
